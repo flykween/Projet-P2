@@ -2,6 +2,11 @@ Bonjour à tous, mes cheres camarades de classe, je souhaite m'adresser à vous 
 L'heure est grâve, j'ai perdu ma couronne de DIVA. Pouvez vous m'aider à la trouver.
 Cordialement votre chere idole. 
 A vous mes fans, 
+<<<<<<< Updated upstream
 Je vous aime.
 TA GUEULE
 Adieu
+=======
+Je vous aime pas.
+Vous êtes mes servants donc retrouver ma couronne!!!
+>>>>>>> Stashed changes
